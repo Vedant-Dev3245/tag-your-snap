@@ -9,7 +9,7 @@ const steps = [
   { n:'02', title:'Land on your snap',
     desc:'Your branch photograph loads. Hover anywhere on the image — a magnified view appears. Find your face, search your name, then click it to tag yourself.' },
   { n:'03', title:'Tag and remember',
-    desc:'Your tag is saved permanently. Tag your batchmates too — these memories stay long after graduation.' },
+    desc:'Your tag is saved permanently- these memories stay long after graduation.' },
 ];
 
 function StepCard({ n, title, desc, index }: { n:string; title:string; desc:string; index:number }) {
