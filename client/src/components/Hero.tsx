@@ -42,7 +42,7 @@ const memPhrases = [
   'A BITSian chapter, sealed in silver',
   'Find yourself in the crowd',
   'Tagged and remembered, always',
-  'Two days, a thousand memories',
+  'Two days, infinite memories',
 ];
 
 export default function Hero() {
