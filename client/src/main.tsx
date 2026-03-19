@@ -9,6 +9,7 @@ import Tag, { loader as branchesLoader } from './routes/tag';
 import TagSnapAdmin, { loader as snapDetailLoader } from './routes/tagSnapAdmin';
 import { GoogleOAuthProvider } from '@react-oauth/google';
 import TagSnap, { loader as snapDetailLoader1 } from './routes/tagSnap';
+import Developers from './routes/developers';
 
 import './assets/fonts/gilmer-regular/gilmer-regular.css';
 import './assets/fonts/gilmer-bold/gilmer-bold.css';
@@ -25,6 +26,10 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home />,
+      },
+      {
+        path: "/developers",
+        element: <Developers />,
       },
       {
         path: "/tag",
