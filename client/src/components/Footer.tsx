@@ -10,7 +10,7 @@ export default function Footer() {
     },
     {
       title: 'LinkedIn',
-      href: 'https://www.linkedin.com/company/sarc-bits-pilani/',
+      href: 'https://www.linkedin.com/company/sarcbitspilani/posts/?feedView=all',
       icon: <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6"><path strokeLinecap="round" strokeLinejoin="round" d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>,
     },
     {
@@ -22,9 +22,9 @@ export default function Footer() {
 
   const aboutLinks = [
     { label: 'BITS and Beyond', href: 'https://open.spotify.com/show/3z8808lf1AB9NspMNufPqr?si=cd20f854d98a42b2' },
-    { label: 'Initiatives',     href: 'https://bits-sarc.in/' },
-    { label: 'Gallery',         href: 'https://bits-sarc.in/#portfolio' },
-    { label: 'Echo',            href: 'https://www.bitsaa.in/page/publications/bits-echo' },
+    { label: 'Initiatives',     href: 'https://bits-sarc.in/https://fierce-jeep-1d2.notion.site/Student-Alumni-Relations-Cell-Who-are-we-9fb9470c4ec14d59978ed9c98a440711' },
+    { label: 'Gallery',         href: 'https://fierce-jeep-1d2.notion.site/Photo-Archive-cddd977931804e458b7eb0bb04a9288a' },
+    { label: 'Echo',            href: 'https://www.bitsaa.org/page/publications/bits-echo' },
   ];
 
   const secLabel: React.CSSProperties = {
