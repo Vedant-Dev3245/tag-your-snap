@@ -22,7 +22,7 @@ export default function Footer() {
 
   const aboutLinks = [
     { label: 'BITS and Beyond', href: 'https://open.spotify.com/show/3z8808lf1AB9NspMNufPqr?si=cd20f854d98a42b2' },
-    { label: 'Initiatives',     href: 'https://bits-sarc.in/https://fierce-jeep-1d2.notion.site/Student-Alumni-Relations-Cell-Who-are-we-9fb9470c4ec14d59978ed9c98a440711' },
+    { label: 'Initiatives',     href: 'https://fierce-jeep-1d2.notion.site/Student-Alumni-Relations-Cell-Who-are-we-9fb9470c4ec14d59978ed9c98a440711' },
     { label: 'Gallery',         href: 'https://fierce-jeep-1d2.notion.site/Photo-Archive-cddd977931804e458b7eb0bb04a9288a' },
     { label: 'Echo',            href: 'https://www.bitsaa.org/page/publications/bits-echo' },
   ];
