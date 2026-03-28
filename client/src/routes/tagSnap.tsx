@@ -102,7 +102,7 @@ export default function TagSnap() {
     setSelectedFace(location.id);
     const s = locations.filter(l => l.id == location.id);
     setSelectedUserId(s[0].tag ? s[0].tag.id : undefined);
-    setPreviousUserId(s[0].tag ? s[0].tag.id : undefined);
+    setPreviousUserId(undefined);
 
     setCollapseStudents(true);
   }
